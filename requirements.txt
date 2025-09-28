@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-pandas
-numpy
-scikit-learn
-python-dotenv
-sqlalchemy
-sentence-transformers
-
